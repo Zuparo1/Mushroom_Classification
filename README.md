@@ -6,7 +6,7 @@ Train and compare several popular CNN architectures on an image classification t
 [Final Report](./Final_Report.pdf)
 
 ## Highlights
-- 🔁 Comparable training loops across architectures
-- 🧰 Utilities for dataset splitting, metrics, and logging
-- 📊 Folder for charts/plots and confusion matrices
-- 📂 Clear structure: `models/`, `data/`, `split_data/`, `chart/`, per-model Python files
+- Comparable training loops across architectures
+- Utilities for dataset splitting, metrics, and logging
+- Folder for charts/plots and confusion matrices
+- Clear structure: `models/`, `data/`, `split_data/`, `chart/`, per-model Python files
